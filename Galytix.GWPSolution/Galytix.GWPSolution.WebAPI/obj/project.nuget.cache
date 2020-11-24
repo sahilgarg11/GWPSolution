@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "QugGkOJscIqXx1Eb0G6tSyd9uG96LlwLJoIGGGUBvgBbthQYgEdNMIavfHzTDi8Alvy7PN5fxRiCYoG7KiORXw==",
+  "success": true,
+  "projectFilePath": "D:\\GWPSolution\\Galytix.GWPSolution\\Galytix.GWPSolution.WebAPI\\Galytix.GWPSolution.WebAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sahil.garg\\.nuget\\packages\\csvhelper\\16.1.0\\csvhelper.16.1.0.nupkg.sha512",
+    "C:\\Users\\sahil.garg\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\sahil.garg\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\sahil.garg\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\sahil.garg\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\sahil.garg\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\sahil.garg\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\sahil.garg\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
